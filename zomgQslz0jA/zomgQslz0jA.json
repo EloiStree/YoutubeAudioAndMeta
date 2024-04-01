@@ -1,0 +1,10 @@
+{
+    "video_id": "zomgQslz0jA",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "String FSM usable in Job & Entity Component System (ECS)",
+    "description": "Welcome to you, this video is a pre-mortem of a state machine I am building to be compatible with ECS , Job System and the compute shader of Unity.\nCore code: https://github.com/EloiStree/2021_09_24_StringFSM4JobComputeAndECS\nDemo:  https://github.com/EloiStree/2021_09_24_StringFSM4JobComputeAndECS_Demo",
+    "keywords": "['ecs', 'jobsystem', 'unity', 'fsm', 'state machine', 'tip', 'opensource', 'cpu', 'compute shader', 'Finite State Machine']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2021-09-27 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/zomgQslz0jA/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLB0ZJuGT4FJdyJWU_20R6LbNQoFag"
+}

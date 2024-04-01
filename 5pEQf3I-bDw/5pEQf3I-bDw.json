@@ -1,0 +1,10 @@
+{
+    "video_id": "5pEQf3I-bDw",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "Record Images of animator Unity3d at high FPS for AI (Ecoute my Dance) Post-Mortem",
+    "description": "This video is a post mortem of a hackathon where I recorded an dancer based on a Unity3D animator in aim to generator data for an AI to be able to recognized a pose.\n\nSource:\n https://github.com/EloiStree/2023_11_17_EcouteMaDance/\nSample: https://github.com/EloiStree/2023_11_17_EcouteMaDanceAiSample/",
+    "keywords": "['ai', 'unity3D', 'unity', 'record', 'rendertexture', 'frame', 'image', 'pose', 'detection', 'machine learning', 'c#', 'thread', 'fps', 'texture2D', 'hackathon', 'postmortem']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-11-21 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/5pEQf3I-bDw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCMgZSheMA8=&rs=AOn4CLBOGW77hmoKSk5QjSBNEKSg4OCbMg"
+}

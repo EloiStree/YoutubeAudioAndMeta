@@ -1,0 +1,10 @@
+{
+    "video_id": "rZ4IvLyyOLM",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "EN, Post-Mortem: Multiplexer  only have one pin at a time (RasberryPiPico) CD74HC4067",
+    "description": "I wanted to use Multiplexer to have several more pins... But that not how it works. If you never used it and want to know more feel free to watch this video.\nCD74HC4067 : https://amzn.to/3JB3TIs\ncode: https://gist.github.com/EloiStree/f05756739fc4b30b5068380853c9754b00\nDonate / Follow : https://eloi.page.link/bundle",
+    "keywords": "['multiplexer', 'CD74HC4067', 'raspberry', 'raspberry pi pico', 'pi pico', 'micro python', 'python']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-06-28 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/rZ4IvLyyOLM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihaMA8=&rs=AOn4CLB5aDAoQcvYY9totMq-axVUlE0ybg"
+}

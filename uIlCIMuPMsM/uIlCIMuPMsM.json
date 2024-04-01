@@ -1,0 +1,10 @@
+{
+    "video_id": "uIlCIMuPMsM",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "Play Diablo 4 with foot and joystick (DirectInput to Xbox Sim)",
+    "description": "Source: https://github.com/EloiStree/2022_10_20_DirectInputSharpToBoolean\nIn this video I experiment the code I did the last days to track DirectInput and redirect it to an Xbox Simulator. The aim was to finish I code I started month ago. (Still draft version but you can found it on GitHub)",
+    "keywords": "['long', 'playthrough', 'diablo', 'joystick', 'directinput', 'x360', 'xbox', 'demo', 'chilling', 'experiment', 'code', 'github', 'hid', 'usb joystick', 'midi']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-07-05 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/uIlCIMuPMsM/sddefault.jpg"
+}

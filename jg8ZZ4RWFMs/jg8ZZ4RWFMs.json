@@ -1,0 +1,10 @@
+{
+    "video_id": "jg8ZZ4RWFMs",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "FR, Hijack RC Exost car, part2: Use relay with Python to and UART with HC05",
+    "description": "In this video we continue the adventure by using Micro Python to manage relay and so the motor of our RC car. And we use the UART standard to communicate with HC05 bluetooth key.\nCode & Details: https://github.com/EloiStree/2023_06_28_RasperryPiPicoToRemoteControlRCExostCar\n\nFollow, Support , Download: https://eloi.page.link/bundle\nDiscord: https://eloi.page.link/discord\n\nRC car 360 : https://amzn.to/3qVa5nZ\nElectric relay: https://amzn.to/3CRdN52\nRaspberry pi pico: https://amzn.to/3CRdN52\nTerminal to link cable: https://amzn.to/46iBBMq\nHC06 & Hc05 : https://amzn.to/46ssGZ2\nTTL USB: https://amzn.to/3JC14GZ",
+    "keywords": "['python', 'micro python', 'raspberry', 'pi pico', 'rc', 'rc car', 'hack', 'hijack', 'relay module', 'code', 'UART', 'tutorial', 'diy']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-06-27 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/jg8ZZ4RWFMs/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFQgZShdMA8=&rs=AOn4CLA_CEtJL2gx0aIptw4_ZgoCYjo4OQ"
+}

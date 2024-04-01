@@ -1,0 +1,10 @@
+{
+    "video_id": "5uxJL5ETeg8",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "If you need: Code to extract Twitch Chat info from Selenium and send it to Unity.",
+    "description": "This code is dirty but you can take it. It allows to extract without the API the chat information with Selenium from the HTML. Then you can send it to an ip:port address in UDP to be used independently of how you access it. In my Example: Unity3D.\nGit Extractor: https://github.com/EloiStree/2020_07_12_ReHackRelay\nGit Unity Listener: https://github.com/EloiStree/2020_07_12_ReHackUnityCore\n\nPing me on Discord if you need information or have some bug make it run.\nIf you have driver problem with Selenium, download the last version and replace it in the Google Driver folder.",
+    "keywords": "['selenium', 'hack', 'extract', 'chat', 'twitch', 'unity3D', 'C#', 'code', 'opensource']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2022-08-31 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/5uxJL5ETeg8/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgXChcMA8=&rs=AOn4CLBKk_4HHPFRl6HsCGfEUu0G4lvTPw"
+}

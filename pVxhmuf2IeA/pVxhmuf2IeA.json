@@ -1,0 +1,10 @@
+{
+    "video_id": "pVxhmuf2IeA",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "Kinect 2 Depth Ground Projection (Coded for ActiveMe) using Compute Shader and Job System",
+    "description": "This project is the last Kinect project I did. It use compute shader and job system to compute the Kinect to projection calibration. I coded the application in two. One that deal with the Kinect and export the texture throw the memory ram of the computer to the other app to have a \"60\" fps flow.",
+    "keywords": "['kinect', 'projection', 'demo', '60fps', 'tool', 'depth', 'jobsyste', 'computeshader']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-08-16 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/pVxhmuf2IeA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDQgZSgyMA8=&rs=AOn4CLCO0MzojeojVaEzj59PpRLDW-fRqQ"
+}

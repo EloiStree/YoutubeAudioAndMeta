@@ -1,0 +1,10 @@
+{
+    "video_id": "cKlV_1cfsJc",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "DIY or Hack you Xbox Controller with Arduino + Brook from SerialPort (Tutorial)",
+    "description": "This video is a postmortem archived of how I do to hack my xbox to make QA testing from from an Arduino Leonardo connected to a brook device and communicated with a serial port.\nAll documentation on the GitHub:\nhttps://github.com/EloiStree/2023_06_21_ArduinoToX360",
+    "keywords": "['xbox', 'ardiuno', 'brook', 'controller', 'diy', 'tutorial', 'hack', 'qa', 'remote', 'serialport', 'code', 'showcase', 'diablo', 'step by step', '2023_06_21_ArduinoToX360']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-07-24 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/cKlV_1cfsJc/sddefault.jpg"
+}

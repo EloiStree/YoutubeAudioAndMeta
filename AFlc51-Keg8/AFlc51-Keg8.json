@@ -1,0 +1,10 @@
+{
+    "video_id": "AFlc51-Keg8",
+    "channel_id": "UCh31PSAE2YS0QOlobn-ix6Q",
+    "title": "Guide: How to use stereo 360 image with Shader Graph (Out = unity_StereoEyeIndex)",
+    "description": "I lost a lot's of time trying to find a way to have stereo image in my project with the new system of Unity with the Single Pass Instanced OpenXR system.\nSo this video is just to help the next one to have some difficulty doing it.\nDone on Unity 2022 in Nov 2023.\nMy search around: https://github.com/EloiStree/HelloAndroidXR/issues/45",
+    "keywords": "['Guide', 'tutorial', 'Unity', 'ShaderGraph', 'Stereo', '360', '180', 'XR', 'OpenXR', 'Git']",
+    "author": "Learn By Playing In XR",
+    "push_date": "2023-11-09 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/AFlc51-Keg8/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgXihlMA8=&rs=AOn4CLARMm-dzBRSFDc5ROqLHHbErxYCqA"
+}

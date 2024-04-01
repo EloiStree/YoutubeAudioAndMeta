@@ -1,0 +1,10 @@
+{
+    "video_id": "YCkX-pCZ488",
+    "channel_id": "UComxuwj8ulaREOdtNwwhI-w",
+    "title": "USB Joystick board on + Xbox Adaptive board (Bad idea)",
+    "description": "Amazon Link: https://amzn.to/3JDXNqQ  \nGit: https://github.com/EloiStree/2023_06_22_XboxAdaptiveToX360  \nI wanted to try if I can connect 2-10\u20ac usb joystick in the Adaptive Controller but that a bad idea. Missing button and not certain to work. Better solution is to use two Micro Python on RP2040 and set a full dual shock joystick.",
+    "keywords": "['gamepad', 'adaptive', 'xbox', 'controller', 'usb', 'joystick', 'usb joystick', 'experiment', 'fail', 'diy', 'arcade']",
+    "author": "\u00c9loi Str\u00e9e, \uab32\ud83e\uddf0: Raw video",
+    "push_date": "2023-07-04 00:00:00",
+    "thumbnail_url": "https://i.ytimg.com/vi/YCkX-pCZ488/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFUgZSheMA8=&rs=AOn4CLAKri6qTuVzuf4qF4tK-A9bSsQO9A"
+}
